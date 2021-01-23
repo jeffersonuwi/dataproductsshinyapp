@@ -7,6 +7,6 @@ This repository has the ui.R and server.R files for the first part of the Develo
 
 The app developed for the first part of the assignment is available at: https://jeffersonbienaime.shinyapps.io/Week4/
 
-The presentation is available at: 
+The presentation is available at: https://rpubs.com/jeffersonbienaime/716475
 
-Files for the presentation are available on the GitHub: 
+Files for the presentation are available on the GitHub: https://github.com/jeffersonuwi/DevelopingDataProductsSlide
